@@ -4,12 +4,7 @@
  * A mock up of session data
  */
 class Session
-
 {
-    
-}
-
- {
   /**
    * Returns the current user session
    * @return array Session Data
